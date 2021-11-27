@@ -84,18 +84,21 @@ header {
 .intro-text h1 {
   font-size: 2.5rem;
   font-weight: 600;
+  max-width: 500px;
 }
 
 .intro-text p {
   font-weight: 400;
+  max-width: 500px;
 }
 
 .intro-text button {
   font-family: 'Poppins', sans-serif;
+  font-size: 1.2rem;
   font-weight: 600;
   border: none;
   border-radius: 55rem;
-  padding: 0.8rem 3.2rem;
+  padding: 0.8rem 3.5rem;
   color: #674baf;
   background-color: white;
   -webkit-box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
